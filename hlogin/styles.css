@@ -1,0 +1,29 @@
+
+
+.jumbotronlogin {
+  width: 80%;
+  margin-top: 20%;
+  padding: 2%;
+  margin-left: 10%;
+  color: #e9ecef !important;
+  background-color: rgba(0, 0, 0, 0.87) !important;
+}
+
+.form-control {
+  background-color: #474747e7 !important;
+  color: azure !important;
+}
+
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+
+
+#containerIntro h1,
+#containerIntro p {
+  display: inline;
+  vertical-align: top;
+}

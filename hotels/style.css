@@ -1,0 +1,29 @@
+/*.container {
+  width: 80%;
+  margin-top: 10%;
+
+  background-color: rgb(242, 242, 245);
+  margin-bottom: 5%;
+}
+*/
+
+
+
+.card {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.card-img-top {
+  height: 150px;
+  widows: 200px;
+  background-color: gray;
+}
+
+.card-title {
+  margin-bottom: 0px;
+}
+
+.light {
+  color: rgb(176, 176, 177);
+}

@@ -1,0 +1,25 @@
+li {
+  font-size: 13px !important;
+}
+
+.radio {
+  background: url("../images/offer1.png") no-repeat;
+  background-size: 70px 70px;
+  cursor: pointer;
+  margin-top: 2px;
+  height: 80px;
+  width: 120px;
+  color: white;
+  padding-top: 11px;
+}
+
+.radio.selected {
+  background: url("../images/offer2.png") no-repeat;
+  background-size: 70px 70px;
+  cursor: pointer;
+  margin-top: 2px;
+  height: 80px;
+  width: 120px;
+  color: white;
+  padding-top: 11px;
+}

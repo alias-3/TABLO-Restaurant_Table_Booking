@@ -1,0 +1,23 @@
+
+.jumbotronlogin {
+  width: 80%;
+  margin-top: 20%;
+  padding: 2%;
+  margin-bottom: 7vw !important;
+  margin-left: 10%;
+  color: #e9ecef !important;
+  background-color: rgba(0, 0, 0, 0.7) !important;
+  border-radius: 5px;
+}
+
+.form-control {
+  background-color: #474747e7 !important;
+  color: azure !important;
+}
+
+.cover {
+  width: 100%;
+  height: 100vh;
+  background: url(../images/loginnn.jpeg) no-repeat 50% 50%;
+  background-size: cover;
+}
